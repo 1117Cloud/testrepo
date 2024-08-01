@@ -3,3 +3,7 @@ I am 1.txt
 Welcome to git commands!
 
 Working on window platform
+
+I added some information
+
+I added some more information
