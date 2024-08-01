@@ -1,0 +1,5 @@
+I am 1.txt
+
+Welcome to git commands!
+
+Working on window platform
